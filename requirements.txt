@@ -3,7 +3,7 @@ pylint==2.3.1
 python-dotenv==0.10.1
 jsonfield==2.0.2
 
-Django==2.2.3
+Django==2.2.22
 django-choices==1.7.0
 django-admin-rangefilter==0.4.0
 django-cors-headers==2.5.2
@@ -16,7 +16,7 @@ django-modeltranslation==0.14.2
 
 
 chardet==3.0.4
-Django==2.2.3
+Django==2.2.22
 django-admin-rangefilter==0.4.0
 django-celery-beat==1.5.0
 django-celery-results==1.1.2
