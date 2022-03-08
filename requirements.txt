@@ -29,7 +29,7 @@ django-timezone-field==3.0
 djangorestframework==3.9.1
 djangorestframework-jwt==1.11.0
 
-httpie==2.2.0
+httpie==3.1.0
 jsonfield==2.0.2
 oauth2-provider==0.0
 oauthlib==3.1.0
